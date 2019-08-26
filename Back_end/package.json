@@ -6,7 +6,7 @@
   "author": "Thiago Kaoru <thiagotk987@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "start": "nodemon src/index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
